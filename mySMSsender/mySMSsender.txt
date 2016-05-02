@@ -1,0 +1,1 @@
+App that let you send SMS to a phone number by a custom Activity.
